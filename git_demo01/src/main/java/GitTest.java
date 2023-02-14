@@ -25,5 +25,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("slave");
+        GitHub更新
     }
 }
